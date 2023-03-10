@@ -51,7 +51,7 @@
   </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=surya1001X&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=surya1001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya1001&show_icons=true&locale=en&layout=compact&theme=radical" />
 
